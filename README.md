@@ -7,3 +7,14 @@ The first step consists of figuring out the best method of communication
 - tf-keras
 - tensorflow
 - transformers
+
+# Questions
+NPC1:
+- Describe the layout of the village.
+- Where is the village?
+NPC2:
+- Describe the trunk of the Oak.
+- What does the Oak offer?
+NPC3:
+- What is the capital?
+- How far does the kingdom stretches?
