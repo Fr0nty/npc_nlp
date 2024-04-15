@@ -10,8 +10,8 @@ The first step consists of figuring out the best method of communication
 
 # Questions
 NPC1:
-- Describe the layout of the village.
-- Where is the village?
+- Describe the streets of the village.
+- Where is the village of Willowbrook?
   
 NPC2:
 - Describe the trunk of the Oak.
