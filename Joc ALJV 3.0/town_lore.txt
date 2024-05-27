@@ -1,0 +1,10 @@
+This town is so strange because it only has 8 buildings arranged in a square.
+
+The Pyramid is located to the right of the Hospital and to the left of the Japanese Palace and below the Train Station.
+The Palace is located to the right of the Tower and below the Stadium and above the Japanese Palace.
+The Stadium is located to the right of the Hotel and above the Japanese Palace.
+The Japanese Palace is located to the right of the Hospital and below the Stadium.
+The Tower is located to the left of the Palace and below the Hotel and above the Hospital.
+The Hospital is located to the left of the Japanese Palace and below the Hotel.
+The Train Station is located to the right of the Hotel and to the left of the Stadium and above the Pyramid.
+The Hotel is located to the left of the Train Station and above the Hospital.

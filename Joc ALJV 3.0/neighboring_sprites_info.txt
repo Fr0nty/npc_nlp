@@ -1,0 +1,32 @@
+Sprite: Pyramid
+Position: (810, 780)
+Neighbors: {'left': 'Train Station', 'right': 'Tower', 'up': 'Stadium', 'down': None}
+
+Sprite: Palace
+Position: (0, 0)
+Neighbors: {'left': None, 'right': 'Hotel', 'up': None, 'down': 'Train Station'}
+
+Sprite: Stadium
+Position: (810, 0)
+Neighbors: {'left': 'Palace', 'right': 'Hotel', 'up': None, 'down': 'Pyramid'}
+
+Sprite: Japanese Palace
+Position: (1620, 390)
+Neighbors: {'left': 'Hospital', 'right': None, 'up': 'Hotel', 'down': 'Tower'}
+
+Sprite: Tower
+Position: (1620, 780)
+Neighbors: {'left': 'Train Station', 'right': None, 'up': 'Hotel', 'down': None}
+
+Sprite: Hospital
+Position: (0, 390)
+Neighbors: {'left': None, 'right': 'Japanese Palace', 'up': 'Palace', 'down': 'Train Station'}
+
+Sprite: Train Station
+Position: (0, 780)
+Neighbors: {'left': None, 'right': 'Tower', 'up': 'Hospital', 'down': None}
+
+Sprite: Hotel
+Position: (1620, 0)
+Neighbors: {'left': 'Stadium', 'right': None, 'up': None, 'down': 'Tower'}
+
